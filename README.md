@@ -1,6 +1,6 @@
 # Optiflow
 
-**Demonstration of creating between frames for 2D animation using optical flow**
+**A demonstration of creating between frames for 2D animation using optical flow**
 
 ## Overview
 
