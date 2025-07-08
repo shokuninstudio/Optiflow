@@ -1,4 +1,4 @@
-# Optical Flow Frame Interpolation
+# Optiflow
 
 **Demonstration of creating between frames for 2D animation using optical flow**
 
@@ -21,7 +21,8 @@ This demo provides a graphical user interface (GUI) to interpolate between anima
 
 ## Getting Started
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/optical-flow-animation.git
-   cd optical-flow-animation
+- git clone https://github.com/shokuninstudio/Optiflow.git
+- cd Optiflow
+- python opticalflow.py
